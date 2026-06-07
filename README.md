@@ -16,3 +16,10 @@ A simple Expense Tracker built in C++ using file handling.
 - C++
 - File Handling
 - Structures
+- STL Vector
+
+## How to Run
+
+```bash
+g++ expense_tracker.cpp -o expense_tracker
+./expense_tracker
